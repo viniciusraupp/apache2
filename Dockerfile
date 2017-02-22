@@ -1,5 +1,5 @@
 FROM eboraas/apache-php
-MAINTAINER Vinicius Raupp Alves
+MAINTAINER Vinicius Raupp Alves <e-mail>
 EXPOSE 80
 EXPOSE 443
 COPY src/ojs/ /var/www/html/
